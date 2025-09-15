@@ -1,5 +1,6 @@
 **Customer Segmentation Dashboard**
 **Project Overview**
+
 This project is a Customer Segmentation Dashboard built with Power BI. It provides insights into customer demographics, purchasing behavior, and spending patterns to help businesses improve marketing strategies, customer engagement, and sales growth.
 
 The dashboard enables stakeholders to answer key business questions such as:
